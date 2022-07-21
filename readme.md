@@ -1,2 +1,2 @@
 # DNC - Projeto Cientista de Dados
-### Arquivo de atividades das aulas da plataforma DNC
+### Arquivos das atividades das aulas da plataforma DNC
